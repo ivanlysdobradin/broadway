@@ -1,6 +1,6 @@
 #image{
   text-align: center;
-  background-image: image("resources/images/the-flatiron-building.png");
+  background-image: image(resources/images/the-flatiron-building.png);
 }
 h1{
   text-align: center;
