@@ -1,8 +1,13 @@
 body{
   font-family: helvetica;
 }
+<<<<<<< HEAD
   .class{
   background-image: image(resources/images/the-flatiron-building.png);
+=======
+  #image{
+  background-image: image("broadway/resources/images/the-flatiron-building.png");
+>>>>>>> 2628495f46039f49be9c5901d06cfd71a8fba4d6
 }
 h1{
   font-family: helvetica;
