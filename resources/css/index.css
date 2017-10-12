@@ -21,11 +21,16 @@ h2{
 }
 h3{
   font-family: helvetica;
+  font-size: 14px;
+}
+h4{
+  font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
 }
-h4{
-  font-family:helvetica;
+h5{
+  font-family: helvetica;
+  font-size: 11px;
 }
 p{
   font-family: helvetica;
