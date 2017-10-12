@@ -11,12 +11,18 @@ body{
 h1{
   font-family: helvetica;
   text-align: center;
+  font-size: 70px;
+  font-weight: bold;
 }
 h2{
   font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
 }
 h3{
   font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
 }
 h4{
   font-family:helvetica;
