@@ -2,7 +2,7 @@ body{
   font-family: helvetica;
 }
   #image{
-  background-image: image(resources/images/the-flatiron-building.png);
+  background-image: image("broadway/resources/images/the-flatiron-building.png");
 }
 h1{
   font-family: helvetica;
