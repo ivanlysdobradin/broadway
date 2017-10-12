@@ -1,7 +1,9 @@
 .image{
   background-image: image("resources/images/the-flatiron-building.png");
+}
+h1{
   text-align: center;
 }
-body {
+a {
   text-align: center;
 }
