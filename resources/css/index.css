@@ -1,7 +1,7 @@
 body{
   font-family: helvetica;
 }
-  }#image{
+  #image{
   text-align: center;
   background-image: image(images/the-flatiron-building.png);
   display: block;
@@ -9,7 +9,20 @@ body{
   width: anything under 100%
 }
 h1{
+  font-family: helvetica;
   text-align: center;
+}
+h2{
+  font-family: helvetica;
+}
+h3{
+  font-family: helvetica;
+}
+h4{
+  font-family:helvetica;
+}
+p{
+  font-family: helvetica;
 }
 a {
   text-align: center;
