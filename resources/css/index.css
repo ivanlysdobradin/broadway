@@ -1,4 +1,7 @@
-#image{
+body{
+  font-family: helvetica;
+}
+  }#image{
   text-align: center;
   background-image: image(images/the-flatiron-building.png);
   display: block;
