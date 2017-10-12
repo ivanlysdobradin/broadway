@@ -1,6 +1,9 @@
 #image{
   text-align: center;
-  background-image: image(resources/images/the-flatiron-building.png);
+  background-image: image(images/the-flatiron-building.png);
+  display: block;
+  margin: auto;
+  width: anything under 100%
 }
 h1{
   text-align: center;
